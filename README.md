@@ -6,15 +6,16 @@
 
 ## RDP Features
 - RAM: 4 GB
-- CPU: 2 Core
+- CPU: 4 Core
 - Disk: 50 GB
+- OS: Windows 10
 - Port Forwarding Enabled
 - Static IP
 - Data Transfer: 4 TB
 - Port Speed: 1-10 Gbps
 - Free Backup: 3 Copy
 - Setup Fee ₹0.00 INR
-- Monthly: 1,299 INR
+- Monthly: 1,599 INR
 - Made in INDIA 🇮🇳
 
 ## Checkout [RDP](https://shop-linuxndroid.in/product/4gb/)
